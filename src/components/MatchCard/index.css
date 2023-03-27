@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.team-match-image {
+  height: 70px;
+  width: 70px;
+}
+.match-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #0f172a;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  color: white;
+  height: 300px;
+  width: 300px;
+}
+.status1 {
+  color: #e31a1a;
+  font-weight: bold;
+  font-size: 20px;
+}
+.status2 {
+  color: #18ed66;
+  font-weight: bold;
+  font-size: 20px;
+}

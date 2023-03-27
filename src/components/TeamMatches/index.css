@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.team-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.image {
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.recent-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-around;
+}
